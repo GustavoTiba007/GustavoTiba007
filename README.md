@@ -70,6 +70,4 @@ Sou estudante de tecnologia com foco em **desenvolvimento back-end com Java** e 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoTiba007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavotiba)
 
-<sub>Aprendizado contínuo · Código com propósito · Evolução constante</sub>
-
 </div>
