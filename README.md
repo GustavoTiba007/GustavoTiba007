@@ -41,8 +41,6 @@ Sou estudante de tecnologia com foco em **desenvolvimento back-end com Java** e 
 
 `Spring AI` · `LLMs` · `RAG` · `Integração de modelos de IA`
 
-<sub>Ícones do projeto <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>. Os conceitos de IA estão em texto porque não possuem ícones específicos no conjunto utilizado.</sub>
-
 </div>
 
 ## 🚀 Minha jornada de desenvolvimento
