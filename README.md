@@ -27,15 +27,15 @@ Sou estudante de tecnologia com foco em **desenvolvimento back-end com Java** e 
 
 **☕ Stack principal — foco em desenvolvimento**
 
-[![Java, Spring Boot e PostgreSQL](https://skillicons.dev/icons?i=java,spring,postgres&theme=dark)](https://github.com/tandpfun/skill-icons)
+[![Java, Spring Boot e PostgreSQL](https://skillicons.dev/icons?i=java,spring,postgres&theme=light)](https://github.com/tandpfun/skill-icons)
 
 **🔧 Versionamento e ambiente**
 
-[![Git, GitHub e Linux](https://skillicons.dev/icons?i=git,github,linux&theme=dark)](https://github.com/tandpfun/skill-icons)
+[![Git, GitHub e Linux](https://skillicons.dev/icons?i=git,github,linux&theme=light)](https://github.com/tandpfun/skill-icons)
 
 **📚 Em estudo e aprofundamento**
 
-[![Maven e Docker](https://skillicons.dev/icons?i=maven,docker&theme=dark)](https://github.com/tandpfun/skill-icons)
+[![Maven e Docker](https://skillicons.dev/icons?i=maven,docker&theme=light)](https://github.com/tandpfun/skill-icons)
 
 **🧠 Inteligência artificial aplicada**
 
